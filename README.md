@@ -7,7 +7,7 @@ https://www.cvedetails.com/cve/CVE-2017-12635/
 
 1. Add `erlang-solutions.repo` to `/etc/yum.repos.d`
 
-2. Install Erlang 20.2 to check that the repo works
+2. Install Erlang 20.2 to check that the repo works:
    `yum install -y erlang-erts`
 
 3. Install files in the release section. These files were rebuilt from Fedora 28 packages.
