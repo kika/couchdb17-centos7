@@ -10,6 +10,4 @@ https://www.cvedetails.com/cve/CVE-2017-12635/
 2. Install Erlang 20.2 to check that the repo works:
    `yum install -y erlang-erts`
 
-3. Install files in the release section. These files were rebuilt from Fedora 28 packages.
-
-https://github.com/kika/couchdb17-centos7/releases/tag/1.0
+3. Install files in the release section. These files were rebuilt from Fedora 28 packages: https://github.com/kika/couchdb17-centos7/releases/tag/1.0
